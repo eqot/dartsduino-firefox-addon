@@ -1,0 +1,10 @@
+{
+    "name": "dartsduino",
+    "fullName": "dartsduino firefox addon", 
+    "description": "dartsduino firefox addon", 
+    "author": "Ikuo Terado", 
+    "version": "0.1", 
+    "license": "MIT", 
+    "unpack": "true", 
+    "id": "jid1-zBIsx5Cizpz6fw"
+}
